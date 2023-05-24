@@ -1,0 +1,1314 @@
+{
+  "sites": [
+    {
+      "siteName": "AMS2 AM3 03 020401",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Netherlands",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "CLN1",
+      "type": "DC",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Ireland",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "DEN2 01 BU037",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Colorado",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "DEN2 01 HA 006",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Colorado",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "DEN2 7",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Colorado",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "DEN3 100",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Colorado",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "DUB4",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Ireland",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "FRA2 FRA06001N",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Germany",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "IAD4 20730",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Virginia",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "KUL2 6F-C",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Malaysia",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "LH3_TFM130SuiteD1",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "United Kingdom",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "NRT1 TY3 04 000330",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Japan",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ORD 400M01",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "Midwest",
+      "state": "Illinois",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ORD1 220",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "Midwest",
+      "state": "Illinois",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SIN1 SG1 07 7A0100",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Singapore",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SHG6 28 1002",
+      "type": "CLS",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "China",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TKO1 04 BU309",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Japan",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "CAN1",
+      "type": "DC",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "Canada",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "SAO2 14 050501",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Brazil",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "BER2",
+      "type": "IA",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Germany",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TPE2",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Taiwan",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "NASH2 20 060201",
+      "type": "DC",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "AMS3 AM4 02 021402",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Netherlands",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MAN1 02 BU003",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "UK",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MEL1 02 030301",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Australia",
+      "country": "Australia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "LIM2 24 051401",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Peru",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MOW1 02 BU013",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Russia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "SIN3",
+      "type": "DC",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Singapore",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "CHI1 20 030102",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "Midwest",
+      "state": "Illinois",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "AMS4 AM5 03 031401",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Netherlands",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "AKL2 02 010202",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Australia",
+      "country": "New Zealand",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "RJ1 02 020201",
+      "type": "CLS",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Brazil",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "PAR1 01 040402",
+      "type": "IA",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Argentina",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "DAL2 06 060102",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Texas",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MAD1 02 BU011",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Spain",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "BOM1 01 BU005",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "India",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "DUB2",
+      "type": "DC",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Ireland",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "PEK2",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "China",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "ATL1 22 060502",
+      "type": "CDN",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "AMS5 AM6 03 032401",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Netherlands",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MEX2 28 030301",
+      "type": "POP",
+      "worldGroup": "LATAM",
+      "continent": "North America",
+      "country": "Mexico",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TYO2",
+      "type": "DC",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Japan",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "CDG1 01 BU003",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "France",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "BNE2 03 020401",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Australia",
+      "country": "Australia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "FRA1 01 BU003",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "France",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "HKG3",
+      "type": "DC",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Hong Kong",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "AMS6 AM7 03 033401",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Netherlands",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TOR1",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "Canada",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MEX3 28 030302",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "North America",
+      "country": "Mexico",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "DAL3 06 060103",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Texas",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "SFO1 21 040301",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "California",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "KUL1 03 BU010",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Malaysia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "LIM3 24 051402",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Peru",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TYO3 04 BU312",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Japan",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "FRA2 01 BU003",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "France",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "BLR1 01 BU017",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "India",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "AMS8 AM9 03 033402",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Netherlands",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "VAN1",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "Canada",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "BOG1 25 050102",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Colombia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "DEN3 01 BU038",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Colorado",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "SEA2 21 040302",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Washington",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "SGN1 03 BU014",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Vietnam",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "LIM4 24 051403",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Peru",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TYO4 04 BU313",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Japan",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MAD2 02 BU011",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Spain",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "SIN4",
+      "type": "DC",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Singapore",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "AMS10 AM11 03 033403",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Netherlands",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MON1",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "Canada",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "RIO1 23 050201",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Brazil",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "SJC1 21 040303",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "California",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "NYC1 02 BU029",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "East",
+      "state": "New York",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "KUL2 03 BU011",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Malaysia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "SCL4 25 050103",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Chile",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TYO5 04 BU314",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Japan",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MUC1 01 BU004",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Germany",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "BOM3",
+      "type": "DC",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "India",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "AMS12 AM13 03 033404",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Netherlands",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MTL1",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "Canada",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "BA1 23 050202",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Argentina",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "PHX1 06 060104",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Arizona",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "CHI2 02 BU030",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "Midwest",
+      "state": "Illinois",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "KUL3 03 BU012",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Malaysia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "LIM5 24 051404",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Peru",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TYO6 04 BU315",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Japan",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "MXP1 01 BU005",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Italy",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "HKG1",
+      "type": "DC",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Hong Kong",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "AMS14 AM15 03 033405",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Netherlands",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "YTO1",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "Canada",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "SAO1 23 050203",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Brazil",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "DAL1 06 060105",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Texas",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "ATL2 02 BU031",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": false
+    },
+    {
+      "siteName": "KUL4 03 BU013",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Malaysia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "SCL5 25 050104",
+      "type": "CDN",
+      "worldGroup": "LATAM",
+      "continent": "South America",
+      "country": "Chile",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TYO7 04 BU316",
+      "type": "POP",
+      "worldGroup": "APAC",
+      "continent": "Asia",
+      "country": "Japan",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "CAI1 01 BU005",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "Egypt",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TUN1",
+      "type": "DC",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "Tunisia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "JNB4 AM15 03 033405",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "South Africa",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TLV1",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Middle East",
+      "country": "Israel",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "DXB2 23 050203",
+      "type": "CDN",
+      "worldGroup": "EMEA",
+      "continent": "Middle East",
+      "country": "United Arab Emirates",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "CAI2 06 060105",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "Egypt",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TUN2 02 BU031",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "Tunisia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "JNB5 03 BU013",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "South Africa",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TLV2 25 050104",
+      "type": "CDN",
+      "worldGroup": "EMEA",
+      "continent": "Middle East",
+      "country": "Israel",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "DXB3 04 BU316",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Middle East",
+      "country": "United Arab Emirates",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "CAI3 01 BU005",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "Egypt",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TUN3",
+      "type": "DC",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "Tunisia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "JNB6 AM15 03 033405",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "South Africa",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TLV3",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Middle East",
+      "country": "Israel",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "DXB4 23 050203",
+      "type": "CDN",
+      "worldGroup": "EMEA",
+      "continent": "Middle East",
+      "country": "United Arab Emirates",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "CAI4 06 060105",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "Egypt",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TUN4 02 BU031",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "Tunisia",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "JNB7 03 BU013",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Africa",
+      "country": "South Africa",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "TLV4 25 050104",
+      "type": "CDN",
+      "worldGroup": "EMEA",
+      "continent": "Middle East",
+      "country": "Israel",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "DXB5 04 BU316",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Middle East",
+      "country": "United Arab Emirates",
+      "region": null,
+      "state": null,
+      "digitalTwin": false
+    },
+    {
+      "siteName": "ATL1 M02",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ATL1 M05",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ATL1 M17",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ATL3 01 EB 119",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ATL3 01 EC 140",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ATL4",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ATL5 AP33",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "DCA2 A123",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Virginia",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "DEN4 DE1 05 0501 0101",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Colorado",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "DEN4 DE1 5 0502 0503",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Colorado",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "FRA5 FR7 0G 019011",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Germany",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "LHR4_LD8_0404MC4J",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "United Kingdom",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "LHR9_LDG7 0G 002200",
+      "type": "POP",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "United Kingdom",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ORD2 S800E",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "Midwest",
+      "state": "Illinois",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ORD5 CG180",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "Midwest",
+      "state": "Illinois",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "DEN5 522 T01",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Colorado",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "ATL5  AT97",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "South",
+      "state": "Georgia",
+      "digitalTwin": true
+    }
+  ]
+}

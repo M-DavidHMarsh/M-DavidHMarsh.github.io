@@ -1,0 +1,154 @@
+{
+    "menuName": "sitesMenu",
+    "filter_DC": 1,
+    "filter_POP": 14,
+    "filter_HUT": 0,
+    "filter_WH": 0,
+    "filter_FNA": 0,
+    "sites": [
+        {
+            "siteName": "AMS2 AM3 03 020401",
+            "type": "POP",
+            "worldGroup": "EMEA",
+            "continent": "Europe",
+            "country": "Netherlands",
+            "region": null,
+            "state": null
+        },
+        {
+            "siteName": "CLN1",
+            "type": "DC",
+            "worldGroup": "EMEA",
+            "continent": "Europe",
+            "country": "Ireland",
+            "region": null,
+            "state": null
+        },
+        {
+            "siteName": "DEN2 01 BU037",
+            "type": "POP",
+            "worldGroup": "North America",
+            "continent": "North America",
+            "country": "USA",
+            "region": "West",
+            "state": "Colorado"
+        },
+        {
+            "siteName": "DEN2 01 HA 006",
+            "type": "POP",
+            "worldGroup": "North America",
+            "continent": "North America",
+            "country": "USA",
+            "region": "West",
+            "state": "Colorado"
+        },
+        {
+            "siteName": "DEN2 7",
+            "type": "POP",
+            "worldGroup": "North America",
+            "continent": "North America",
+            "country": "USA",
+            "region": "West",
+            "state": "Colorado"
+        },
+        {
+            "siteName": "DEN3 100",
+            "type": "POP",
+            "worldGroup": "North America",
+            "continent": "North America",
+            "country": "USA",
+            "region": "West",
+            "state": "Colorado"
+        },
+        {
+            "siteName": "DUB4",
+            "type": "POP",
+            "worldGroup": "EMEA",
+            "continent": "Europe",
+            "country": "Ireland",
+            "region": null,
+            "state": null
+        },
+        {
+            "siteName": "FRA2 FRA06001N",
+            "type": "POP",
+            "worldGroup": "EMEA",
+            "continent": "Europe",
+            "country": "Germany",
+            "region": null,
+            "state": null
+        },
+        {
+            "siteName": "IAD4 20730",
+            "type": "POP",
+            "worldGroup": "North America",
+            "continent": "North America",
+            "country": "USA",
+            "region": "South",
+            "state": "Virginia"
+        },
+        {
+            "siteName": "KUL2 6F-C",
+            "type": "POP",
+            "worldGroup": "APAC",
+            "continent": "Asia",
+            "country": "Malaysia",
+            "region": null,
+            "state": null
+        },
+        {
+            "siteName": "LH3_TFM130SuiteD1",
+            "type": "POP",
+            "worldGroup": "EMEA",
+            "continent": "Europe",
+            "country": "United Kingdom",
+            "region": null,
+            "state": null
+        },
+        {
+            "siteName": "NRT1 TY3 04 000330",
+            "type": "POP",
+            "worldGroup": "APAC",
+            "continent": "Asia",
+            "country": "Japan",
+            "region": null,
+            "state": null
+        },
+        {
+            "siteName": "ORD 400M01",
+            "type": "POP",
+            "worldGroup": "North America",
+            "continent": "North America",
+            "country": "USA",
+            "region": "Midwest",
+            "state": "Illinois"
+        },
+        {
+            "siteName": "ORD1 220",
+            "type": "POP",
+            "worldGroup": "North America",
+            "continent": "North America",
+            "country": "USA",
+            "region": "Midwest",
+            "state": "Illinois"
+        },
+        {
+            "siteName": "SIN1 SG1 07 7A0100",
+            "type": "POP",
+            "worldGroup": "APAC",
+            "continent": "Asia",
+            "country": "Singapore",
+            "region": null,
+            "state": null
+        },
+        {
+            "siteName": "DUBTEST",
+            "type": "POP",
+            "worldGroup": "EMEA",
+            "continent": "Europe",
+            "country": "Ireland",
+            "region": null,
+            "state": null
+        }
+    ]
+}

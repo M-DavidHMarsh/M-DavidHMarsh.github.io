@@ -1,0 +1,1391 @@
+{
+    "sitename": "DEN2 01 BU037",
+    "hasInventory": "no",
+    "powerbars": "yes",
+    "cabinets": [
+        {
+            "identifier": "DB1:0G:Z01S04.1.01",
+            "type": "GF-2C420-CB",
+            "pos": "-3.423758,0,-2.642061",
+            "rot": "0,-90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "40",
+                    "device": "hcm 1 RU tall NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "Corning Edge 2 RU NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "44",
+                    "device": "Corning Edge 1 RU NOT FOUND",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.1.02",
+            "type": "GF-2C420-CB",
+            "pos": "-3.423758,0,-1.842056",
+            "rot": "0,-90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "26",
+                    "device": "PTX10002-60C-AC-IR",
+                    "forward": true
+                },
+                {
+                    "number": "30",
+                    "device": "NCM 1 RU tall NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "31",
+                    "device": "Arista Networks DD-BK-MS 7280CR3MK-32D4",
+                    "forward": true
+                },
+                {
+                    "number": "34",
+                    "device": "Arista Networks DD-BK-MS 7280CR3MK-32D4",
+                    "forward": true
+                },
+                {
+                    "number": "37",
+                    "device": "Corning Edge 1 RU NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "ZPE Systems NSC-T48R-STND-DAC-SFP",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Juniper Networks EX4300-48T",
+                    "forward": true
+                },
+                {
+                    "number": "43",
+                    "device": "hcm 1 RU tall NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "44",
+                    "device": "Corning Edge 2 RU NOT FOUND",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.1.03",
+            "type": "GF-2C420-CB",
+            "pos": "-3.423758,0,-1.04205",
+            "rot": "0,-90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "01",
+                    "device": "Arista Networks DCS-7504R-BND-D",
+                    "forward": true
+                },
+                {
+                    "number": "09",
+                    "device": "Arista Networks DCS-7504R-BND-D",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "ZPE Systems NSC-T48R-STND-DAC-SFP",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Juniper Networks EX4300-48T",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.1.04",
+            "type": "GF-2C420-CB",
+            "pos": "-3.423758,0,-0.2420443",
+            "rot": "0,-90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "35",
+                    "device": "ZPE Systems NSC-T48R-STND-DAC-SFP",
+                    "forward": true
+                },
+                {
+                    "number": "36",
+                    "device": "Juniper Networks EX4300-48T",
+                    "forward": true
+                },
+                {
+                    "number": "38",
+                    "device": "Cisco NCS1002-K9=",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "Cisco 15216-MD-48-ODDE=",
+                    "forward": true
+                },
+                {
+                    "number": "44",
+                    "device": "Cisco NCS1001-K9=",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.1.05",
+            "type": "GF-2C420-CB",
+            "pos": "-3.423758,0,0.5579613",
+            "rot": "0,-90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "00",
+                    "device": "nothing",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.1.06",
+            "type": "GF-2C420-CB",
+            "pos": "-3.423758,0,1.357967",
+            "rot": "0,-90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "01",
+                    "device": "hd crusher",
+                    "forward": true
+                },
+                {
+                    "number": "10",
+                    "device": "SSD crusher",
+                    "forward": true
+                },
+                {
+                    "number": "30",
+                    "device": "Juniper Networks EX3400-24P",
+                    "forward": true
+                },
+                {
+                    "number": "33",
+                    "device": "hcm 1 RU tall NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "37",
+                    "device": "Juniper ptx-qfx10002-60",
+                    "forward": true
+                },
+                {
+                    "number": "39",
+                    "device": "Juniper Networks SRX1500-SYS-JB-AC",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "ZPE Systems NSC-T48R-STND-DAC-SFP",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Juniper Networks EX4300-48T",
+                    "forward": true
+                },
+                {
+                    "number": "45",
+                    "device": "Juniper Networks EX4300-48T",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.2.01",
+            "type": "GF-2C420-CB",
+            "pos": "-1.011853,0,-2.642061",
+            "rot": "0,90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "40",
+                    "device": "hcm 1 RU tall NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "Corning Edge 2 RU NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "44",
+                    "device": "Corning Edge 1 RU NOT FOUND",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.2.02",
+            "type": "GF-2C420-CB",
+            "pos": "-1.011853,0,-1.842061",
+            "rot": "0,90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "26",
+                    "device": "PTX10002-60C-AC-IR",
+                    "forward": true
+                },
+                {
+                    "number": "30",
+                    "device": "hcm 1 RU tall NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "31",
+                    "device": "Arista Networks DD-BK-MS 7280CR3MK-32D4",
+                    "forward": true
+                },
+                {
+                    "number": "34",
+                    "device": "Arista Networks DD-BK-MS 7280CR3MK-32D4",
+                    "forward": true
+                },
+                {
+                    "number": "37",
+                    "device": "Corning Edge 1 RU NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "ZPE Systems NSC-T48R-STND-DAC-SFP",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Juniper Networks EX4300-48T",
+                    "forward": true
+                },
+                {
+                    "number": "43",
+                    "device": "hcm 1 RU tall NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "44",
+                    "device": "Corning Edge 2 RU NOT FOUND",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.2.03",
+            "type": "GF-2C420-CB",
+            "pos": "-1.011853,0,-1.042067",
+            "rot": "0,90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "01",
+                    "device": "Arista Networks DCS-7504R-BND-D",
+                    "forward": true
+                },
+                {
+                    "number": "09",
+                    "device": "Arista Networks DCS-7504R-BND-D",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "ZPE Systems NSC-T48R-STND-DAC-SFP",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Juniper Networks EX4300-48T",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.2.04",
+            "type": "GF-2C420-CB",
+            "pos": "-1.011853,0,-0.2420609",
+            "rot": "0,90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "35",
+                    "device": "ZPE Systems NSC-T48R-STND-DAC-SFP",
+                    "forward": true
+                },
+                {
+                    "number": "36",
+                    "device": "Juniper Networks EX4300-48T",
+                    "forward": true
+                },
+                {
+                    "number": "38",
+                    "device": "Cisco NCS1002-K9=",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Cisco 15216-MD-48-ODDE=",
+                    "forward": true
+                },
+                {
+                    "number": "44",
+                    "device": "Cisco NCS1001-K9=",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.2.05",
+            "type": "GF-2C420-CB",
+            "pos": "-1.011853,0,0.5579447",
+            "rot": "0,90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "20",
+                    "device": "Reserved_7",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.2.06",
+            "type": "GF-2C420-CB",
+            "pos": "-1.011853,0,1.35795",
+            "rot": "0,90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "15",
+                    "device": "Lockbox",
+                    "forward": true
+                },
+                {
+                    "number": "30",
+                    "device": "Juniper Networks EX3400-24P",
+                    "forward": true
+                },
+                {
+                    "number": "31",
+                    "device": "Juniper Networks EX4300-32F",
+                    "forward": true
+                },
+                {
+                    "number": "32",
+                    "device": "Juniper Networks EX4300-32F",
+                    "forward": true
+                },
+                {
+                    "number": "33",
+                    "device": "hcm 1 RU tall NOT FOUND",
+                    "forward": true
+                },
+                {
+                    "number": "37",
+                    "device": "Juniper qfx10002-36Q",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "ZPE Systems NSC-T48R-STND-DAC-SFP",
+                    "forward": true
+                },
+                {
+                    "number": "45",
+                    "device": "Corning Edge 1 RU NOT FOUND",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.3.01",
+            "type": "HPE cabinet",
+            "pos": "1.572337,0,-2.759793",
+            "rot": "0,-90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "01",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "03",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "05",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "07",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "09",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "11",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "13",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "15",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "17",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "19",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "21",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "23",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "25",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "27",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "29",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "31",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "33",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "35",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "37",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "39",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "HP PROCURVE 2530-48",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Arista Networks DCS-7060CX-32S-R",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.3.02",
+            "type": "HPE cabinet",
+            "pos": "1.572337,0,-2.161013",
+            "rot": "0,-90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "01",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "03",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "05",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "07",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "09",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "11",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "13",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "15",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "17",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "19",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "21",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "23",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "25",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "27",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "29",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "31",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "33",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "35",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "37",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "39",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "HP PROCURVE 2530-48",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Arista Networks DCS-7060CX-32S-R",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.3.03",
+            "type": "HPE cabinet",
+            "pos": "1.572337,0,-1.560159",
+            "rot": "0,-90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "01",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "03",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "05",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "07",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "09",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "11",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "13",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "15",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "17",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "19",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "21",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "23",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "25",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "27",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "29",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "31",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "33",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "35",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "37",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "39",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Arista Networks DCS-7060CX-32S-R",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.4.01",
+            "type": "HPE cabinet",
+            "pos": "3.680447,0,-2.763598",
+            "rot": "0,90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "01",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "03",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "05",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "07",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "09",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "11",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "13",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "15",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "17",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "19",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "21",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "23",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "25",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "27",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "29",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "31",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "33",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "35",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "37",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "39",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "HP PROCURVE 2530-48",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Arista Networks DCS-7060CX-32S-R",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.4.02",
+            "type": "HPE cabinet",
+            "pos": "3.680447,0,-2.162744",
+            "rot": "0,90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "01",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "03",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "05",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "07",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "09",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "11",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "13",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "15",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "17",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "19",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "21",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "23",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "25",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "27",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "29",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "31",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "33",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "35",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "37",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "39",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "41",
+                    "device": "HP PROCURVE 2530-48",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Arista Networks DCS-7060CX-32S-R",
+                    "forward": true
+                }
+            ]
+        },
+        {
+            "identifier": "DB1:0G:Z01S04.4.03",
+            "type": "HPE cabinet",
+            "pos": "3.680447,0,-1.563964",
+            "rot": "0,90,0",
+            "power": [
+                {
+                    "position": "PowerBar_01",
+                    "type": "STV-FB636A-L2130"
+                },
+                {
+                    "position": "PowerBar_02",
+                    "type": "STV-FB636A-L2130"
+                }
+            ],
+            "RU": [
+                {
+                    "number": "01",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "03",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "05",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "07",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "09",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "11",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "13",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "15",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "17",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "19",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "21",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "23",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "25",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "27",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "29",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "31",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "33",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "35",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "37",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "39",
+                    "device": "HP DL380_G10_SAMSUNG",
+                    "forward": true
+                },
+                {
+                    "number": "42",
+                    "device": "Arista Networks DCS-7060CX-32S-R",
+                    "forward": true
+                }
+            ]
+        }
+    ],
+    "ID": 6793,
+    "Name": "DEN2",
+    "Type": "Pop",
+	"Role": "IP + Optical",
+    "Status": "In Use",
+    "Description": "Not Provided",
+    "Notes": "Located in an industrial complex. No visable suggestion of facility except at gate with intercom. \nLarge cage room to expand. Facility is typical.",
+    "Address": "9180 Commerce Center Circle",
+    "City": "Highlands Ranch, CO, United States",
+    "Latitude": 39.550068,
+    "Longitude": -105.033419,
+    "Campus": "",
+    "Region": "AMER",
+    "Continent": "North America",
+    "Timezone": "America/Denver",
+    "Lockbox": "False",
+    "Aliases": "(empty)",
+    "Contacts": "(empty)",
+    "Racks_Total": 50,
+    "Racks_in_Use": 43,
+    "Racks_Reserved": 7,
+    "Racks_Available": 0,
+    "RU_Total": 2100,
+    "RU_Utilized": 810,
+    "RU_Reserved": 118,
+    "RU_Available": 1172,
+    "Power_kW_Constrained": 250.0,
+    "Power_kW_Delivered": 825.6,
+    "Power_kW_Utilized": 64.36,
+    "Power_kW_Reserved": 0.0,
+    "Power_kW_Estimated": 232.88,
+    "Constrained_kW_Free": 185.64,
+    "Delivered_kW_Free": 761.24,
+    "Created_By": "Eric Yang",
+    "Created_At": "Oct 2, 2014",
+    "Updated_By": "LogDevice Bot",
+    "Updated_At": "Jul 22, 2022",
+    "Owner_ID": "Dustin Osteen",
+    "Address_Override": "9180 Commerce Center Circle",
+    "Postal_Code": 80129,
+    "Seat_Count": 0,
+    "Airport_Code": "DEN",
+    "City_(Deprecated)": "",
+    "State/Province_(Deprecated)": "",
+    "Country_(Deprecated)": "(empty)",
+    "Region__(Deprecated)": "",
+    "PoP_Type": "Optical Router",
+    "Managed_PoP": "(empty)",
+    "Facility_Name": "DEN1-A",
+    "Vendor_Site_ID_Clli": "",
+    "Number_of_Cages": 1,
+    "Parking_OnSite": "True",
+    "PoP_Access": "(empty)",
+    "Audit_Date": "(empty)",
+    "Reserve_Cage": "(empty)",
+    "Cage_Location": "Cage 7, 1st Floor",
+    "Cabinet_Code": "DEN2",
+    "Connector_Types": "L6 30r",
+    "HDD_Crusher": "False",
+    "HDD_Crusher_Location": "None",
+    "Max_Cabinet_Height": "",
+    "Rack_Heights": 4852,
+    "Cage_Type": "Bb Optical",
+    "Gate_Code_Key": "",
+    "Code_to_Access_Lockbox": "",
+    "Utility_Feed_Configuration": "Single Feed",
+    "UPS_Redundancy": "N Plus 1",
+    "Generator_Redundancy": "N Plus 1",
+    "CRAC/CRAH_Redundancy": "N Plus 1",
+    "Cooling/Heating_Redundancy": "N Plus 1",
+    "Reserved_Space": "",
+    "Cage_Security_Method": "Badge and Fingerprint",
+    "Security_Cameras_Installed": "(empty)",
+    "Equipment_Rack_Name": "Racks 101-110 & 201-210",
+    "OOB_Access": "",
+    "Whip_Location": "Below",
+    "ACL_Management_Type": "Portal",
+    "ACL_Portal_URL": "https://cyxtera.service-now.com/csm",
+    "ACL_Contact_Email": "support@cyxtera.com",
+    "ACL_Format": "(empty)",
+    "ACL_Push_Format": "(empty)",
+    "Go-Live_Date": "Dec 2, 2014",
+    "Decommission_Date": "(empty)",
+    "Legal_Entity": "Unknown",
+    "Site_Delivered_Date": "(empty)",
+    "Shipping_Location": "",
+    "IOR/EOR_Address": "",
+    "Shipping_Procedure": "Please Open Ticket in Cyxtera Customer Portal to advise of expected Pickup, Carrier and Identifiers (Tracking #, etc.). Coordinate with Facility to have material at Loading Dock / Secured Storage in advance of pickup.",
+    "Shipping_Dock_Hours": "9AM \u00c3\u00a2\u00e2\u201a\u00ac\u00e2\u20ac\u0153 6PM Local, unless otherwise-Ticketed.",
+    "Shipping_Details_(deprecated)": "",
+    "Loading_Dock_Height": "",
+    "Loading_Dock_Onsite": "True",
+    "Freight_Elevator_Onsite": "False",
+    "Lift_Gate_Required": "False",
+    "Deliver_Time_Restrictions": "",
+    "Lead_Time_To_Access_Site": "Access: 20-30 mins / Personnel: 10 mins",
+    "Max_Truck_Length": "(empty)",
+    "Shipping_Address": "9180 Commerce Center Circle Highlands Ranch, CO 80129",
+    "Contact_Info": "Account Manager<br>\nKathy Vayder<br>\nkathy.vayder@cyxtera.com<br>\n925-381-6190<br>\n<br>\nAccount Manager<br>\nNader Hantour<br>\nnader.hantour@cyxtera.com<br>\n408-218-5770<br>\n<br>\nData Center Site manager-Emergency Contact<br>\t\nWes Milostan<br>\nwesley.milostan@cyxtera.com<br>\n720-267-3425<br>\n<br>\nOperations Manager<br>\t\nDwayne Stevenson<br>\ndwayne.stevenson@centurylink.com<br>\n(303) 703-2627<br>\n<br>\nSales Engineer<br>\t\nWaili Wong<br>\nwaili.wong@cyxtera<br>\n650-302-6262<br>\n<br>",
+    "Customer_Portal": "https://cyxtera.service-now.com/csm/",
+    "Vendor_Contact": "See contact info",
+    "Vendor_Name": "Cyxtera Technologies, Inc.-01234(ASN)",
+    "Site_Access_Procedure": "<br><br><b>Grant Temporary Access</b>\n<br>To grant temporary access use the portal to generate an access ticket. Provide the ticket number to access requester prior to visit date. Use Cyxtera portal AAR / CS-xxx which is a valid site access reference.\nMeta Platforms, Inc. - BAN (635241) is the correct BAN to use when requesting access in portal.\n<br><br><i>For further details visit the POP Access Wiki https://fburl.com/popaccess.</i>",
+    "Cross_Connect_Procedure": "Use Cyxtera portal to order cross connect services.",
+    "Smart_Hand_Procedure": "For Smarthand services please go to the Iron Service Global team via https://our.intern.facebook.com/intern/wiki/Infrastructure/Infra_Data_Centers/Site_Services/ENS/ENS_Operations_Team/Service_Global_Pilot/"
+}
