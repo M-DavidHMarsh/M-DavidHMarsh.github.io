@@ -20,5 +20,6 @@
   "sitename": "LHR4_LD8_0404MC4J",
   "hasInventory": "no",
   "powerbars": "yes",
-  "cabinets": []
+  "cabinets": [],
+  "RU_Total": 1048
 }

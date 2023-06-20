@@ -20,5 +20,6 @@
   "sitename": "IAD3 DC11-01011327",
   "hasInventory": "no",
   "powerbars": "yes",
-  "cabinets": []
+  "cabinets": [],
+  "RU_Total": 1048
 }

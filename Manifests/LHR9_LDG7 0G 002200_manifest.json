@@ -20,5 +20,6 @@
   "sitename": "LHR9_LDG7 0G 002200",
   "hasInventory": "no",
   "powerbars": "yes",
-  "cabinets": []
+  "cabinets": [],
+  "RU_Total": 1048
 }

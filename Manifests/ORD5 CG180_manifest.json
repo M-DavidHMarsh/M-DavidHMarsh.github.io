@@ -20,5 +20,6 @@
   "sitename": "ORD5 CG180",
   "hasInventory": "no",
   "powerbars": "yes",
-  "cabinets": []
+  "cabinets": [],
+  "RU_Total": 1048
 }
