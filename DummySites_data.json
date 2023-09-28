@@ -1579,6 +1579,146 @@
       "region": "South",
       "state": "Virginia",
       "digitalTwin": true
+    },
+    {
+      "siteName": "ILA 2_3_1 demo",
+      "type": "IA",
+      "worldGroup": "EMEA",
+      "continent": "Europe",
+      "country": "Ireland",
+      "region": null,
+      "state": null,
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SEA1 70390",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West ",
+      "state": "Washington state",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SEA1 50390",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Washington State",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SEA1 70500",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Washington State",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SEA1 SE3 05 050440",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Washington State",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SEA1 SE3 07 070160",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Washington State",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SEA5 EDCSEA01 02 SEA5",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Washington State",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "PDX1 600 69",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Oregon",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "PDX1 T168",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "Oregon",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SAC3 S001",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "California",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "FMB1 SJE014 CG 026",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "California",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SJC1 52730",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "California",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SJC1 52395",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "California",
+      "digitalTwin": true
+    },
+    {
+      "siteName": "SJC3 002 M32",
+      "type": "POP",
+      "worldGroup": "North America",
+      "continent": "North America",
+      "country": "USA",
+      "region": "West",
+      "state": "California",
+      "digitalTwin": true
     }
   ]
 }
