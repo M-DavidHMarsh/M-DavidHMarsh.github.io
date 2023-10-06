@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Infraverse WebGL</title>
+	<link rel="shortcut icon" href="TemplateData/favicon.ico">
+	<link rel="stylesheet" href="TemplateData/style.css">
+	<style>
+		#game-frame {
+			border: 2px solid blue;
+			width: 99%;
+			height: 75vh;
+		}
+
+		#unity-message {
+			width: 80%;
+		}
+
+		#game-title,
+		#game-footer,
+		#load-button,
+		#unity-message-container {
+			text-align: center;
+			padding: 10px;
+		}
+	</style>
+</head>
+
+<body>
+
+	<div id="unity-url-input">
+		<input type="text" id="unity-message" value="https://localhost:8360/game.html">
+	</div>
+	<iframe id="game-frame"></iframe>
+	<div id="load-button">
+		<button onclick="loadGame()">Load Game</button>
+	</div>
+	<div id="unity-message-container">
+		<input type="text" id="unity-message" value="Unity message output will go here" readonly>
+	</div>
+	<script>
+		function loadGame() {
+			var gameFrame = document.getElementById('game-frame');
+			gameFrame.src = 'game.html';
+
+			// Unity message event handlers
+			function unitySendTextHandler(message) {
+				var messageBox = document.getElementById('message-box');
+				messageBox.value = message;
+			}
+		}
+	</script>
+
+	<div id="game-footer">
+		<h1>Telecom Infrastructure Engineering</h1>
+	</div>
+
+</body>
+
+</html>
